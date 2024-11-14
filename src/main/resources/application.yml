@@ -1,0 +1,9 @@
+text:
+  length:
+    min: 1
+    max: 300
+
+title:
+  length:
+    min: 1
+    max: 20
